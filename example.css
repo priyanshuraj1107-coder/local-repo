@@ -1,0 +1,9 @@
+table{
+    border-radius: 5px;
+    border-color: black;
+    border-style: double;
+}
+th{
+    color:blueviolet;
+    font-style: italic;
+}
